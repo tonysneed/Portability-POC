@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="UtilsLib45">
+      <HintPath>..\lib\netstandard2.0\UtilsLib45.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

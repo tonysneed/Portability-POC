@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "ICSharpCode.Decompiler.Console": {
+      "commandName": "Project"
+    }
+  }
+}
